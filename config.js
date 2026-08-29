@@ -2,11 +2,11 @@ const fs = require('fs');
 const path = require('path');
 const pkg = require('./package.json');
 
-global.botname = '⇶ℓεgεη∂ вσү⬱';
+global.botname = '𝑴Ꝛ𝑳ᴡꜻ𝘇𝐼→𝗠𝗗';
 global.version = pkg.version || '1.0.0';
 
-global.chid = '120363409640316018@newsletter';
-global.chname = '⇶ℓεgεη∂ вσү⬱';
+global.chid = '120363427699653625@newsletter';
+global.chname = 'FLASH-MD APDATES';
 
 global.ownerNumbers = [];
 
